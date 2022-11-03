@@ -18,6 +18,7 @@ const NoFavorites = () => {
         css={{ opacity: "0.1" }}
         width={250}
         height={250}
+        alt={"logo"}
         src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg"
       />
     </Container>
